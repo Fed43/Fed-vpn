@@ -1,4 +1,4 @@
-# profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 Fed VPN
+# profile-title: 🏴 BLACK LISTS 🏴 Fed VPN
 # profile-update-interval: 1
 #support-url: https://github.com/fed43/fed-vpn
 #announce: Fed-VPN - лучший впн! Не работает? Жми 🔄.
