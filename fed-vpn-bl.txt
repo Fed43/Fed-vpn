@@ -1,6 +1,6 @@
 # profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 Fed VPN
 # profile-update-interval: 1
-#support-url: https://github.com/fed-vpn
+#support-url: https://github.com/fed43/fed-vpn
 #announce: Fed-VPN - лучший впн! Не работает? Жми 🔄.
 
 vless://02722550-1915-4629-a653-cbe95e594f70@201.51.10.239:443?encryption=none&flow=xtls-rprx-vision&pbk=unAvLudgWMwMSCs9ltSr2_Ayp7q3685S7EBxFVk_4Uw&security=reality&sid=9d0791d1&sni=apitw1.goonars.com&type=tcp&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
